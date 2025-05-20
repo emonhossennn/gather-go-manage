@@ -46,16 +46,7 @@ Set the build command to npm run build and the output directory to dist.
 
 Deploy.
 
-🌐 Custom Domain
-If you'd like to connect a custom domain to your deployed site:
 
-Go to your Vercel dashboard.
-
-Navigate to your project settings.
-
-Add your domain under the Domains tab.
-
-Follow the DNS setup instructions.
 
 
 
