@@ -1,73 +1,61 @@
-# Welcome to your Lovable project
+# Gather & Go Manage
 
-## Project info
+## Overview
 
-**URL**: https://lovable.dev/projects/97ff1257-989d-44ec-b1ad-5bf4096d7f5c
+**Gather & Go Manage** is a modern web application designed to streamline event or task management using a clean and efficient tech stack. Built with React, TypeScript, and Tailwind CSS, this app provides a responsive, fast, and developer-friendly experience.
 
-## How can I edit this code?
+## 🔗 Live Demo
 
-There are several ways of editing your application.
+👉 [https://vercel.com/md-emon-hossens-projects/gather-go-manage](https://vercel.com/md-emon-hossens-projects/gather-go-manage)
 
-**Use Lovable**
+## 🚀 Tech Stack
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/97ff1257-989d-44ec-b1ad-5bf4096d7f5c) and start prompting.
+- **React**
+- **Vite**
+- **TypeScript**
+- **Tailwind CSS**
+- **shadcn-ui**
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🛠 Getting Started
 
-**Use your preferred IDE**
+To run this project locally, make sure you have **Node.js** and **npm** installed. You can install Node.js using [nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Steps to run locally:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+```bash
+# Step 1: Clone the repository
+git clone https://github.com/md-emon-hossen/gather-go-manage.git
 
-Follow these steps:
+# Step 2: Navigate into the project directory
+cd gather-go-manage
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Step 3: Install dependencies
+npm install
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start the development server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+📦 Deployment
+This project is deployed using Vercel. To deploy your own version:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Push your code to GitHub.
 
-**Use GitHub Codespaces**
+Connect the GitHub repo to Vercel.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Set the build command to npm run build and the output directory to dist.
 
-## What technologies are used for this project?
+Deploy.
 
-This project is built with:
+🌐 Custom Domain
+If you'd like to connect a custom domain to your deployed site:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Go to your Vercel dashboard.
 
-## How can I deploy this project?
+Navigate to your project settings.
 
-Simply open [Lovable](https://lovable.dev/projects/97ff1257-989d-44ec-b1ad-5bf4096d7f5c) and click on Share -> Publish.
+Add your domain under the Domains tab.
 
-## Can I connect a custom domain to my Lovable project?
+Follow the DNS setup instructions.
 
-Yes, you can!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
